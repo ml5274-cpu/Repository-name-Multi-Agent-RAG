@@ -1,8 +1,10 @@
-transformers
 sentence-transformers
-scikit-learn
-gradio
 faiss-cpu
+transformers
+accelerate
 pandas
 numpy
 torch
+matplotlib
+gradio
+scikit-learn
