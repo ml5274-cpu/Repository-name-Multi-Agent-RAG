@@ -1,0 +1,39 @@
+The capital of France is Paris.
+
+The Pyramids of Giza are located in Egypt.
+
+The Great Wall of China is a historic fortification located in China.
+
+Artificial Intelligence is the simulation of human intelligence by machines.
+
+RAG stands for Retrieval-Augmented Generation.
+
+Retrieval-Augmented Generation retrieves external documents before generating an answer.
+
+FAISS is a library for efficient similarity search over dense vectors.
+
+Sentence Transformers create dense vector embeddings for sentences and documents.
+
+Machine learning is a field of artificial intelligence that allows systems to learn from data.
+
+Supervised learning uses labeled data to train predictive models.
+
+Unsupervised learning finds patterns in data without labeled outputs.
+
+Deep learning uses neural networks with many layers to model complex patterns.
+
+Natural language processing focuses on helping computers understand and generate human language.
+
+The verification step in a RAG system checks whether an answer is supported by retrieved evidence.
+
+Hallucination occurs when a language model generates information that is not supported by facts.
+
+The Earth revolves around the Sun.
+
+Water freezes at 0 degrees Celsius under standard atmospheric pressure.
+
+The Pacific Ocean is the largest ocean on Earth.
+
+Albert Einstein developed the theory of relativity.
+
+The moon is Earth's natural satellite.
